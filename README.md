@@ -1,0 +1,2 @@
+# cusatdailywages
+Cusat Daily Wages
